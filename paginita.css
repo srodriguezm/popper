@@ -44,18 +44,18 @@ h6 {
 
 h3 {
      background-position: center center;
-    width: 120px;
-    height: 120px;
+    width: 350px;
+    height: 40px;
     background-color: red;
     align-content: center;
-    position: relative;
+    position: center;
     -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
     -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
     -webkit-animation-iteration-count: 2; /* Safari 4.0 - 8.0 */
     -webkit-animation-direction: alternate; /* Safari 4.0 - 8.0 */
     animation-name: example;
     animation-duration: 7s;
-    animation-iteration-count: 2;
+    animation-iteration-count: 10;
     animation-direction: alternate-reverse;
     font-family: 'Rammetto One', cursive;
 }
