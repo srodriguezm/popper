@@ -106,11 +106,13 @@ h2{
   background-image: url(cocaina.jpg);
   background-repeat: no-repeat;
   background-size: 1200px;
-  background-position:  right;
+  background-position:  left;
 }
 .bg-primaryA {
-    background-image: url(cocaina.jpg);
+  height: 450px;
+  background-image: url(banner.jpg);
   background-repeat: no-repeat;
+  background-size:1400px;
 }
 
 .bg-dark {
