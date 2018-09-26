@@ -31,9 +31,7 @@ a {
   transition: all 0.2s;
 }
 
-.
-
-a:hover {
+.a:hover {
   color: #f05f40;
 }
 
@@ -46,8 +44,8 @@ h6 {
 
 h3 {
      background-position: center center;
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     background-color: red;
     align-content: center;
     position: relative;
@@ -101,6 +99,15 @@ h2{
   background-size: 460px;
   background-position: right;
 }
+.bg-primary31 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-color: red !important;
+  background-image: url(lengua.png);
+  background-repeat: no-repeat;
+  background-size: 460px;
+  background-position: left;
+}
 .bg-primary4 {
   background-color: black !important;
   background-image: url(cocaina.jpg);
@@ -124,9 +131,12 @@ h2{
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
+  
 }
 .coso{
-  color: rgba(0, 0, 0);
+  color: rgb(253, 253, 253);
+  margin-left: 32%;
+  text-align:justify;
 }
 .cosofaded{
   color: rgba(0, 0, 0, 0.7);
