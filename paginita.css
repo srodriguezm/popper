@@ -114,6 +114,41 @@ h2{
   background-repeat: no-repeat;
   background-size:1400px;
 }
+.bg-primaryC {
+  height: 450px;
+  background-image: url(moños.jpg);
+  background-repeat: no-repeat;
+  background-size:1400px;
+}
+.bg-primaryD {
+  background-color: #186609 !important;
+  background-image: url(joint.png);
+  background-repeat: no-repeat;
+}
+.bg-primaryB {
+  background-color: black !important;
+  height: 450px;
+  background-image: url(bong.png);
+  background-repeat: no-repeat;
+  background-size:1200px;
+  background-position: left top;
+}
+.bg-primaryE {
+  background-color: black !important;
+  height: 750px;
+  background-image: url(weedhouse.png);
+  background-repeat: no-repeat;
+  background-size:1400px;
+  background-position: center;
+}
+.bg-primaryF {
+  background-color: black !important;
+  height: 750px;
+  background-image: url(lil.png);
+  background-repeat: no-repeat;
+  background-size:1400px;
+  background-position: center;
+}
 
 .bg-dark {
   background-color: #212529 !important;
