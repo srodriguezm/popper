@@ -88,6 +88,7 @@ h2{
   background-size: 460px;
   background-repeat: repeat-y;
 }
+
 .bg-primary2 {
   background-color: #CA31AB !important;
   background-image: url(poppers.png);
@@ -110,13 +111,33 @@ h2{
 }
 .bg-primaryA {
   height: 450px;
+  background: #212529;
   background-image: url(banner.jpg);
   background-repeat: no-repeat;
   background-size:1400px;
+  background-origin: border-box;
 }
 .bg-primaryC {
   height: 450px;
   background-image: url(moños.jpg);
+  background-repeat: no-repeat;
+  background-size:1400px;
+}
+.bg-primaryC1 {
+  height: 450px;
+  background-image: url(cocaina.jpg);
+  background-repeat: no-repeat;
+  background-size:1400px;
+}
+.bg-primaryC2 {
+  height: 550px;
+  background: #f05f40;
+  background-repeat: no-repeat;
+  background-size:1400px;
+}
+.bg-primaryF1 {
+  height: 700px;
+  background-image: url(cocaine1.jpg);
   background-repeat: no-repeat;
   background-size:1400px;
 }
@@ -125,10 +146,35 @@ h2{
   background-image: url(joint.png);
   background-repeat: no-repeat;
 }
+.bg-primaryD1 {
+  background-color: #212529 !important;
+  background-image: url(joint.png);
+  background-repeat: no-repeat;
+}
+.bg-primaryD2 {
+  background-color: rgb(100, 39, 86) !important;
+  background-image: url(joint.png);
+  background-repeat: no-repeat;
+}
 .bg-primaryB {
   background-color: black !important;
   height: 450px;
   background-image: url(bong.png);
+  background-repeat: no-repeat;
+  background-size:1200px;
+  background-position: left top;
+}
+.bg-primaryB1 {
+  background-color: black !important;
+  height: 450px;
+  background-image: url(images.jfif);
+  background-repeat: no-repeat;
+  background-size:1200px;
+  background-position: left top;
+}
+.bg-primaryB2 {
+  height: 450px;
+  background: rgb(42, 42, 105);
   background-repeat: no-repeat;
   background-size:1200px;
   background-position: left top;
@@ -141,10 +187,32 @@ h2{
   background-size:1400px;
   background-position: center;
 }
+.bg-primaryE1 {
+  background-color: black !important;
+  height: 750px;
+  background-image: url(slang-terms-for-cocaine.jpg);
+  background-repeat: no-repeat;
+  background-size:1400px;
+  background-position: center;
+}
+.bg-primaryE2 {
+  background-color: rgb(83, 13, 13) !important;
+  height: 750px;
+  background-repeat: no-repeat;
+  background-size:1400px;
+  background-position: center;
+}
 .bg-primaryF {
   background-color: black !important;
   height: 750px;
   background-image: url(lil.png);
+  background-repeat: no-repeat;
+  background-size:1400px;
+  background-position: center;
+}
+.bg-primaryF2 {
+  background-color: black !important;
+  height: 750px;
   background-repeat: no-repeat;
   background-size:1400px;
   background-position: center;
