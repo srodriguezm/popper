@@ -2,8 +2,8 @@
     background-color: green !important;
     background-image: url(pruebaFondo.jpg);
     background-repeat: no-repeat;
-    background-size: 1500px;
-    background-position: right;
+    background-size: 100%;
+    background-position: center;
   }
   .bg-primary33 {
     background-color: rgb(19, 1, 102) !important;
