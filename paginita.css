@@ -103,10 +103,14 @@ h2{
 }
 .bg-primary4 {
   background-color: black !important;
-  background-image: url(coca.png);
+  background-image: url(cocaina.jpg);
   background-repeat: no-repeat;
-  background-size: 460px;
-  background-position: left;
+  background-size: 1200px;
+  background-position:  right;
+}
+.bg-primaryA {
+    background-image: url(cocaina.jpg);
+  background-repeat: no-repeat;
 }
 
 .bg-dark {
@@ -365,9 +369,10 @@ header.masthead p {
 }
 
 h19{
-    font-size: 300;
+    font-size: 40px;
     text-align: center;
     font-family: 'Pacifico', cursive;
+    color: white;
 }
 
 .btn {
