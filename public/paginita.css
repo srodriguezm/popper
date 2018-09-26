@@ -139,6 +139,7 @@ h2{
 .bg-primaryC2 {
   height: 550px;
   background: #f05f40;
+  background-image: url(http://www.poppers-effects.com/wp-content/uploads/2017/02/cropped-poppers-uk-poppers-effects.png);
   background-repeat: no-repeat;
   background-size:1400px;
 }
@@ -150,18 +151,24 @@ h2{
 }
 .bg-primaryD {
   background-color: #186609 !important;
-  background-image: url(joint.png);
+  background-image: url(jointgg.jpg);
+  background-size:1400px;
   background-repeat: no-repeat;
+  background-position: right center;
 }
 .bg-primaryD1 {
-  background-color: #212529 !important;
-  background-image: url(joint.png);
+  background-color: black !important;
+  background-image: url(coco.jpg);
   background-repeat: no-repeat;
+  background-size:900px;
+  background-position: center right;
 }
 .bg-primaryD2 {
-  background-color: rgb(100, 39, 86) !important;
-  background-image: url(joint.png);
+  background-color: black !important;
+  background-image: url(https://thumbs.mic.com/NjI0ZmJjZmI3NyMvNnl6aENTZ1Y5YUdIMXpsczlYdU5DU05naFJrPS83MTN4MjA6Mjk2N3gxMTI0LzE2MDB4OTAwL2ZpbHRlcnM6Zm9ybWF0KGpwZWcpOnF1YWxpdHkoODApL2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9wb2xpY3ltaWMtaW1hZ2VzL3U5aXBsMjFzMXR6YWtvbGhqaWFqNGtpb3lhajdjb3Y3anV3Y3lqaDJiY2tzNm9la2YxdnJldHIwdGM0dHRmZmQuanBn.jpg);
   background-repeat: no-repeat;
+  background-size:1300px;
+  background-position: right top;
 }
 .bg-primaryB {
   background-color: black !important;
@@ -180,11 +187,11 @@ h2{
   background-position: left top;
 }
 .bg-primaryB2 {
-  height: 450px;
-  background: rgb(42, 42, 105);
+  background-image: url("https://i.pinimg.com/originals/4a/bb/a0/4abba038dcedf2a1fd112cc0446d851f.jpg");
   background-repeat: no-repeat;
-  background-size:1200px;
-  background-position: left top;
+  background-position: center;
+  height: 750px;
+  background-size:1400px;
 }
 .bg-primaryE {
   background-color: black !important;
@@ -203,11 +210,10 @@ h2{
   background-position: center;
 }
 .bg-primaryE2 {
-  background-color: rgb(83, 13, 13) !important;
-  height: 750px;
+  background-image: url(mind.jpg);
   background-repeat: no-repeat;
   background-size:1400px;
-  background-position: center;
+  background-position: bottom;
 }
 .bg-primaryF {
   background-color: black !important;
@@ -218,11 +224,12 @@ h2{
   background-position: center;
 }
 .bg-primaryF2 {
+  background-image: url(psy.png);
   background-color: black !important;
   height: 750px;
   background-repeat: no-repeat;
   background-size:1400px;
-  background-position: center;
+  background-position: top;
 }
 
 .bg-dark {
@@ -236,7 +243,7 @@ h2{
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
-  
+
 }
 .coso{
   color: rgb(253, 253, 253);
