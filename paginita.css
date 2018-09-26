@@ -31,9 +31,7 @@ a {
   transition: all 0.2s;
 }
 
-.
-
-a:hover {
+.a:hover {
   color: #f05f40;
 }
 
@@ -46,18 +44,18 @@ h6 {
 
 h3 {
      background-position: center center;
-    width: 100px;
-    height: 100px;
+    width: 350px;
+    height: 40px;
     background-color: red;
     align-content: center;
-    position: relative;
+    position: center;
     -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
     -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
     -webkit-animation-iteration-count: 2; /* Safari 4.0 - 8.0 */
     -webkit-animation-direction: alternate; /* Safari 4.0 - 8.0 */
     animation-name: example;
     animation-duration: 7s;
-    animation-iteration-count: 2;
+    animation-iteration-count: 10;
     animation-direction: alternate-reverse;
     font-family: 'Rammetto One', cursive;
 }
@@ -101,6 +99,15 @@ h2{
   background-repeat: no-repeat;
   background-size: 460px;
   background-position: right;
+}
+.bg-primary31 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-color: red !important;
+  background-image: url(lengua.png);
+  background-repeat: no-repeat;
+  background-size: 460px;
+  background-position: left;
 }
 .bg-primary4 {
   background-color: black !important;
@@ -229,12 +236,15 @@ h2{
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
+  
 }
 .coso{
-  color: rgba(0, 0, 0);
+  color: rgb(253, 253, 253);
+  margin-left: 32%;
+  text-align:justify;
 }
 .cosofaded{
-  color: rgba(0, 0, 0, 0.7);
+  color: rgba(0, 0, 0, 0.74);
 }
 
 section {
